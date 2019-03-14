@@ -1,1 +1,2 @@
-[x] [Image-to-Image Translation with Conditional Adversarial Networks]
+- [x] [Image-to-Image Translation with Conditional Adversarial Networks]
+- [x] [Generative Adversarial Nets]
