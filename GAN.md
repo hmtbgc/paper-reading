@@ -1,4 +1,5 @@
 - [x] [Generative Adversarial Nets][original gan]
+- [x] [Conditional Generative Adversarial Nets][Cgan]
 - [x] [Image-to-Image Translation with Conditional Adversarial Networks][pix2pix]
 - [x] [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks][cyclegan]
-- [x] [Conditional Generative Adversarial Nets][Cgan]
+- [ ] [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]
