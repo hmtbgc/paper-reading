@@ -1,2 +1,2 @@
-- [x] [Image-to-Image Translation with Conditional Adversarial Networks]
-- [x] [Generative Adversarial Nets]
+- [x] [Image-to-Image Translation with Conditional Adversarial Networks][pix2pix]
+- [x] [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks][cyclegan]
