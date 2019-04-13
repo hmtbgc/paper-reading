@@ -1,1 +1,2 @@
-- [x] Convolutional Neural Networks for Sentence Classification (Yoon Kim 2014)
+- [x] Convolutional Neural Networks for Sentence Classification            (Yoon Kim 2014)
+- [x] CNN Features off-the-shelf: an Astounding Baseline for Recognition   (Ali Sharif Razavian 2014)
