@@ -1,2 +1,3 @@
 - [x] Convolutional Neural Networks for Sentence Classification            (Yoon Kim 2014)
 - [x] CNN Features off-the-shelf: an Astounding Baseline for Recognition   (Ali Sharif Razavian 2014)
+- [x] Sequence to Sequence Learning with Neural Networks                   (Ilya Sutskever 2014)  <https://arxiv.org/abs/1409.3215>
