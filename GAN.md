@@ -3,7 +3,7 @@
 - [x] [Image-to-Image Translation with Conditional Adversarial Networks]    [pix2pix]
 - [x] [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks]   [cyclegan]
 - [ ] [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]
-- [ ] [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS]  [DCgan]
+- [x] [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS]  [DCgan]
 - [ ] [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets]  [infogan]
 - [x] [Least Squares Generative Adversarial Networks]   [LS gan]
 - [x] [Wasserstein GAN]  [WGAN]
