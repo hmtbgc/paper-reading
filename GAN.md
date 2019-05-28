@@ -5,6 +5,7 @@
 - [ ] [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]
 - [ ] [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS]  [DCgan]
 - [ ] [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets]  [infogan]
-- [ ] [Least Squares Generative Adversarial Networks]   [LS gan]
-- [ ] [Wasserstein GAN]  [WGAN]
+- [x] [Least Squares Generative Adversarial Networks]   [LS gan]
+- [x] [Wasserstein GAN]  [WGAN]
 - [ ] [Learning from Simulated and Unsupervised Images through Adversarial Training]
+
