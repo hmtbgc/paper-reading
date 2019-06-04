@@ -11,5 +11,5 @@
 - [x] Deeply-Recursive Convolutional Network for Image Super-Resolution(**DRCN**)<br>
 (https://arxiv.org/abs/1511.04491)<br>
 (*recursive-convolution -- fewer parameters*)
-- [] Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections(**RED**)<br>
+- [ ] Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections(**RED**)<br>
 (https://arxiv.org/abs/1603.09056)<br>
