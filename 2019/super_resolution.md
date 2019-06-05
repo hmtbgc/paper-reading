@@ -1,4 +1,9 @@
 # **Super Resolution** <br>
+## **Review** <br>
+- [ ] Super-Resolution via Deep Learning (**review**)<br>
+(https://arxiv.org/abs/1706.09077)
+
+## **Methods** <br>
 - [x] Learning a Deep Convolutional Network for Image Super-Resolution (**SRCNN**)<br>
 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.1999&rep=rep1&type=pdf)
 - [x] Accelerating the Super-Resolution Convolutional Neural Network (**FSRCNN**) <br>
@@ -20,4 +25,9 @@
 - [ ] Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution(**LapSRN**)<br>
 (https://arxiv.org/abs/1704.03915)<br>
 - [ ] Image Super-Resolution Using Dense Skip Connections(**SRDenseNet**)<br>
-(http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
+(http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)<br>
+- [ ] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network(**SRGAN(SRResNet)**)<br>
+(https://arxiv.org/pdf/1609.04802.pdf)
+- [ ] Enhanced Deep Residual Networks for Single Image Super-Resolution(**EDSR**)<br>
+(https://arxiv.org/abs/1707.02921.pdf)
+
