@@ -17,5 +17,7 @@
 - [x] Image Super-Resolution via Deep Recursive Residual Network(**DRRN**)<br>
 (http://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf)<br>
 (*combination of VDSR & DRCN, global residual & local residual, very complicated structure*)
-- [ ] Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution<br>
+- [ ] Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution(**LapSRN**)<br>
 (https://arxiv.org/abs/1704.03915)<br>
+- [ ] Image Super-Resolution Using Dense Skip Connections(**SRDenseNet**)<br>
+(http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
