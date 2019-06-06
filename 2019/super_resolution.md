@@ -4,33 +4,44 @@
 (https://arxiv.org/abs/1706.09077)
 
 ## **Methods** <br>
-- [x] Learning a Deep Convolutional Network for Image Super-Resolution (**SRCNN**)<br>
+### **SRCNN** 
+- [x] Learning a Deep Convolutional Network for Image Super-Resolution <br>
 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.1999&rep=rep1&type=pdf)
-- [x] Accelerating the Super-Resolution Convolutional Neural Network (**FSRCNN**) <br>
+### **FSRCNN**
+- [x] Accelerating the Super-Resolution Convolutional Neural Network  <br>
 (https://arxiv.org/abs/1608.00367)
-- [x] Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network(**ESPCN**) <br>(https://arxiv.org/abs/1609.05158) <br>
+### **ESPCN**
+- [x] Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network <br>(https://arxiv.org/abs/1609.05158) <br>
 (*need to read again*)
-- [x] Accurate Image Super-Resolution Using Very Deep Convolutional Networks(**VDSR**)<br>
+### **VDSR**
+- [x] Accurate Image Super-Resolution Using Very Deep Convolutional Networks<br>
 (https://arxiv.org/abs/1511.04587)<br>
 (*nice paper! The deeper, the better. first paper to apply residuals to SISR*)
-- [x] Deeply-Recursive Convolutional Network for Image Super-Resolution(**DRCN**)<br>
+### **DRCN**
+- [x] Deeply-Recursive Convolutional Network for Image Super-Resolution)<br>
 (https://arxiv.org/abs/1511.04491)<br>
 (*recursive-convolution -- fewer parameters*)
-- [x] Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections(**RED**)<br>
+### **RED**
+- [x] Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections<br>
 (https://arxiv.org/abs/1603.09056)<br>
 (*paired conv & deconv, skip-connection transfers image details & gradients*)
-- [x] Image Super-Resolution via Deep Recursive Residual Network(**DRRN**)<br>
+### **DRRN**
+- [x] Image Super-Resolution via Deep Recursive Residual Network<br>
 (http://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf)<br>
 (*combination of VDSR & DRCN, global residual & local residual, very complicated structure*)
-- [x] Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution(**LapSRN**)<br>
+### **LapSRN**
+- [x] Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution<br>
 (https://arxiv.org/abs/1704.03915)<br>
 (*two branches: feature extraction & image reconstruction, progressively reconstruction(upsample), new loss function(l1)*)
-- [x] Image Super-Resolution Using Dense Skip Connections(**SRDenseNet**)<br>
+### **SRDenseNet**
+- [x] Image Super-Resolution Using Dense Skip Connections<br>
 (http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)<br>
 (*haven't read DenseNet, but skip connections do matter. low-level information should also be used for reconstruction. feature combination rather than element-wise summation*)
-- [x] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network(**SRGAN(SRResNet)**)<br>
+### **SRGAN(SRResNet)**
+- [x] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network<br>
 (https://arxiv.org/pdf/1609.04802.pdf)<br>
-(*GAN, perceptual loss = content loss + weight * adversial loss, content loss can be MSE(too smooth) or VGG loss(high level feature map*)
-- [ ] Enhanced Deep Residual Networks for Single Image Super-Resolution(**EDSR**)<br>
+(*GAN, perceptual loss = content loss + weight * adversial loss, content loss can be MSE(too smooth) or VGG loss(high level feature map*))
+### **EDSR**
+- [ ] Enhanced Deep Residual Networks for Single Image Super-Resolution<br>
 (https://arxiv.org/abs/1707.02921.pdf)
 
