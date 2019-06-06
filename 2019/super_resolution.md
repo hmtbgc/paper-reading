@@ -42,6 +42,7 @@
 (https://arxiv.org/pdf/1609.04802.pdf)<br>
 (*GAN, perceptual loss = content loss + weight * adversial loss, content loss can be MSE(too smooth) or VGG loss(high level feature map*))
 ### **EDSR**
-- [ ] Enhanced Deep Residual Networks for Single Image Super-Resolution<br>
-(https://arxiv.org/abs/1707.02921.pdf)
+- [x] Enhanced Deep Residual Networks for Single Image Super-Resolution<br>
+(https://arxiv.org/abs/1707.02921.pdf)<br>
+(*remove BN layers from SRResNet, use specific pre-trained models for different up-scale*)
 
