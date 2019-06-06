@@ -12,7 +12,7 @@
 (*need to read again*)
 - [x] Accurate Image Super-Resolution Using Very Deep Convolutional Networks(**VDSR**)<br>
 (https://arxiv.org/abs/1511.04587)<br>
-(*nice paper! The deeper, the better*)
+(*nice paper! The deeper, the better. first paper to apply residuals to SISR*)
 - [x] Deeply-Recursive Convolutional Network for Image Super-Resolution(**DRCN**)<br>
 (https://arxiv.org/abs/1511.04491)<br>
 (*recursive-convolution -- fewer parameters*)
