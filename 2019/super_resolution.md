@@ -28,8 +28,9 @@
 - [x] Image Super-Resolution Using Dense Skip Connections(**SRDenseNet**)<br>
 (http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)<br>
 (*haven't read DenseNet, but skip connections do matter. low-level information should also be used for reconstruction. feature combination rather than element-wise summation*)
-- [ ] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network(**SRGAN(SRResNet)**)<br>
-(https://arxiv.org/pdf/1609.04802.pdf)
+- [x] Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network(**SRGAN(SRResNet)**)<br>
+(https://arxiv.org/pdf/1609.04802.pdf)<br>
+(*GAN, perceptual loss = content loss + weight * adversial loss, content loss can be MSE(too smooth) or VGG loss(high level feature map*)
 - [ ] Enhanced Deep Residual Networks for Single Image Super-Resolution(**EDSR**)<br>
 (https://arxiv.org/abs/1707.02921.pdf)
 
