@@ -3,7 +3,7 @@
 - [ ] Super-Resolution via Deep Learning (**review**)<br>
 (https://arxiv.org/abs/1706.09077)
 
-## **Methods** <br>
+## **Classical Deep Structure Methods ** <br>
 ### **SRCNN** 
 - [x] Learning a Deep Convolutional Network for Image Super-Resolution <br>
 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.642.1999&rep=rep1&type=pdf)
@@ -44,5 +44,20 @@
 ### **EDSR**
 - [x] Enhanced Deep Residual Networks for Single Image Super-Resolution<br>
 (https://arxiv.org/abs/1707.02921.pdf)<br>
-(*remove BN layers from SRResNet, use specific pre-trained models for different up-scale*)
+(*remove BN layers from SRResNet(BN will reduce contrast), use two pre-trained res-blocks before entering into the share res-blocks for different up-scales*)
+
+## **Recent New Methods** <br>
+### **2018** 
+- [ ] Residual Dense Network for Image Super-Resolution<br>
+(https://arxiv.org/pdf/1802.08797.pdf)<br>
+- [ ] Deep Back-Projection Networks For Super-Resolution<br>
+(https://arxiv.org/pdf/1803.02735.pdf)<br>
+### **2019**
+- [ ] Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels<br>
+(https://arxiv.org/pdf/1903.12529.pdf)<br>
+- [ ] Meta-SR: A Magnification-Arbitrary Network for Super-Resolution<br>
+(https://arxiv.org/abs/1903.00875.pdf)<br>
+
+
+
 
